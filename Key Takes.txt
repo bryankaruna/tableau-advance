@@ -1,0 +1,62 @@
+Key takes:
+- Data
+> Concepts
+@ Visualizations
+
+PART 2 GROUP AND SETS
+-joining data
+-creating folders
+-default properties for fields
+>groups & sets
+>static & dynamic sets
+>combining sets
+>sets + parameter
+>sets via formulas
+@2+ dimension in colors
+@drop lines
+@reference lines
+@tooltips
+@adjusting the color range
+@dynamic text in dashboard
+
+
+PART 3 ADVANCED TABLE CALCULATIONS
+-Creating multiple join
+-QA for table calculations
+>calculated fields vs table calculation
+>quick table calculation
+>save table calculation
+>table calculations for formula
+>2nd tier table calculation
+>direction of computation
+>trendlines
+@creating story line
+@using dashboard as intermediary steps
+@annotating story lines
+@adding images to a storyline
+
+
+PART 4 ADVANCED DATA PREPARATION + ANALYTICS IN TABLEAU
+-advanced pivot
+-split
+-hiding unwanted columns
+-data source filters
+-tips for working with large datasets
+-advanced timeseries blending
+>box plots
+>trend lines
+>forecast
+>calc field in a blend
+@how to present storyline
+
+
+PART 5 CREATING ANIMATIONS IN TABLEAU
+-creating multiple blends
+-editing blending relationships
+>animations
+>animations controls
+>manually sorting blended data
+@animations
+@leaving a trail in animation
+@tooltips: responsive vs On hover
+@workbook themes

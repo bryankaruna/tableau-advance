@@ -1,0 +1,15 @@
+1. Create Groups
+2. Group(control meta data) vs Sets(pocket data for different scenarios)
+3. Static Dynamic sets
+4. combined sets
+5. controlling sets with parameters
+7. creating sets via formula
+
+Addition:
+1. how to create folders
+2. how to set default properties for fields (penting)
+3. how to use two dimension in color (penting)
+4. how to add reference lines
+5. how to add drop lines
+6. how to create useful tooltips
+7. other aesthetics & best practices (penting bgt)
